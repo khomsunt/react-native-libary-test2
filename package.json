@@ -1,0 +1,19 @@
+{
+  "name": "react-native-libary-test2",
+  "version": "1.0.0",
+  "description": "My second package libary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khomsunt/react-native-libary-test2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khomsunt/react-native-libary-test2/issues"
+  },
+  "homepage": "https://github.com/khomsunt/react-native-libary-test2#readme"
+}
